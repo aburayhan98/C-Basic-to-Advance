@@ -1,0 +1,15 @@
+E:\C# practice\C# Revition\PartialExamples\bin\Debug\net7.0\PartialExamples.exe
+E:\C# practice\C# Revition\PartialExamples\bin\Debug\net7.0\PartialExamples.deps.json
+E:\C# practice\C# Revition\PartialExamples\bin\Debug\net7.0\PartialExamples.runtimeconfig.json
+E:\C# practice\C# Revition\PartialExamples\bin\Debug\net7.0\PartialExamples.dll
+E:\C# practice\C# Revition\PartialExamples\bin\Debug\net7.0\PartialExamples.pdb
+E:\C# practice\C# Revition\PartialExamples\obj\Debug\net7.0\PartialExamples.csproj.AssemblyReference.cache
+E:\C# practice\C# Revition\PartialExamples\obj\Debug\net7.0\PartialExamples.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# practice\C# Revition\PartialExamples\obj\Debug\net7.0\PartialExamples.AssemblyInfoInputs.cache
+E:\C# practice\C# Revition\PartialExamples\obj\Debug\net7.0\PartialExamples.AssemblyInfo.cs
+E:\C# practice\C# Revition\PartialExamples\obj\Debug\net7.0\PartialExamples.csproj.CoreCompileInputs.cache
+E:\C# practice\C# Revition\PartialExamples\obj\Debug\net7.0\PartialExamples.dll
+E:\C# practice\C# Revition\PartialExamples\obj\Debug\net7.0\refint\PartialExamples.dll
+E:\C# practice\C# Revition\PartialExamples\obj\Debug\net7.0\PartialExamples.pdb
+E:\C# practice\C# Revition\PartialExamples\obj\Debug\net7.0\PartialExamples.genruntimeconfig.cache
+E:\C# practice\C# Revition\PartialExamples\obj\Debug\net7.0\ref\PartialExamples.dll

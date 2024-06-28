@@ -1,0 +1,15 @@
+E:\C# practice\C# Revision\ParaMeterModifier\bin\Debug\net7.0\ParaMeterModifier.exe
+E:\C# practice\C# Revision\ParaMeterModifier\bin\Debug\net7.0\ParaMeterModifier.deps.json
+E:\C# practice\C# Revision\ParaMeterModifier\bin\Debug\net7.0\ParaMeterModifier.runtimeconfig.json
+E:\C# practice\C# Revision\ParaMeterModifier\bin\Debug\net7.0\ParaMeterModifier.dll
+E:\C# practice\C# Revision\ParaMeterModifier\bin\Debug\net7.0\ParaMeterModifier.pdb
+E:\C# practice\C# Revision\ParaMeterModifier\obj\Debug\net7.0\ParaMeterModifier.csproj.AssemblyReference.cache
+E:\C# practice\C# Revision\ParaMeterModifier\obj\Debug\net7.0\ParaMeterModifier.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# practice\C# Revision\ParaMeterModifier\obj\Debug\net7.0\ParaMeterModifier.AssemblyInfoInputs.cache
+E:\C# practice\C# Revision\ParaMeterModifier\obj\Debug\net7.0\ParaMeterModifier.AssemblyInfo.cs
+E:\C# practice\C# Revision\ParaMeterModifier\obj\Debug\net7.0\ParaMeterModifier.csproj.CoreCompileInputs.cache
+E:\C# practice\C# Revision\ParaMeterModifier\obj\Debug\net7.0\ParaMeterModifier.dll
+E:\C# practice\C# Revision\ParaMeterModifier\obj\Debug\net7.0\refint\ParaMeterModifier.dll
+E:\C# practice\C# Revision\ParaMeterModifier\obj\Debug\net7.0\ParaMeterModifier.pdb
+E:\C# practice\C# Revision\ParaMeterModifier\obj\Debug\net7.0\ParaMeterModifier.genruntimeconfig.cache
+E:\C# practice\C# Revision\ParaMeterModifier\obj\Debug\net7.0\ref\ParaMeterModifier.dll

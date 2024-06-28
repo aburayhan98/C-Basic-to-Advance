@@ -1,0 +1,15 @@
+E:\C# practice\C# Revision\AnnonymosType\bin\Debug\net7.0\AnnonymosType.exe
+E:\C# practice\C# Revision\AnnonymosType\bin\Debug\net7.0\AnnonymosType.deps.json
+E:\C# practice\C# Revision\AnnonymosType\bin\Debug\net7.0\AnnonymosType.runtimeconfig.json
+E:\C# practice\C# Revision\AnnonymosType\bin\Debug\net7.0\AnnonymosType.dll
+E:\C# practice\C# Revision\AnnonymosType\bin\Debug\net7.0\AnnonymosType.pdb
+E:\C# practice\C# Revision\AnnonymosType\obj\Debug\net7.0\AnnonymosType.csproj.AssemblyReference.cache
+E:\C# practice\C# Revision\AnnonymosType\obj\Debug\net7.0\AnnonymosType.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# practice\C# Revision\AnnonymosType\obj\Debug\net7.0\AnnonymosType.AssemblyInfoInputs.cache
+E:\C# practice\C# Revision\AnnonymosType\obj\Debug\net7.0\AnnonymosType.AssemblyInfo.cs
+E:\C# practice\C# Revision\AnnonymosType\obj\Debug\net7.0\AnnonymosType.csproj.CoreCompileInputs.cache
+E:\C# practice\C# Revision\AnnonymosType\obj\Debug\net7.0\AnnonymosType.dll
+E:\C# practice\C# Revision\AnnonymosType\obj\Debug\net7.0\refint\AnnonymosType.dll
+E:\C# practice\C# Revision\AnnonymosType\obj\Debug\net7.0\AnnonymosType.pdb
+E:\C# practice\C# Revision\AnnonymosType\obj\Debug\net7.0\AnnonymosType.genruntimeconfig.cache
+E:\C# practice\C# Revision\AnnonymosType\obj\Debug\net7.0\ref\AnnonymosType.dll

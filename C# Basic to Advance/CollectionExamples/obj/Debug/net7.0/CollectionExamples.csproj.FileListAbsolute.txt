@@ -1,0 +1,15 @@
+E:\C# practice\C# Revision\CollectionExamples\bin\Debug\net7.0\CollectionExamples.exe
+E:\C# practice\C# Revision\CollectionExamples\bin\Debug\net7.0\CollectionExamples.deps.json
+E:\C# practice\C# Revision\CollectionExamples\bin\Debug\net7.0\CollectionExamples.runtimeconfig.json
+E:\C# practice\C# Revision\CollectionExamples\bin\Debug\net7.0\CollectionExamples.dll
+E:\C# practice\C# Revision\CollectionExamples\bin\Debug\net7.0\CollectionExamples.pdb
+E:\C# practice\C# Revision\CollectionExamples\obj\Debug\net7.0\CollectionExamples.csproj.AssemblyReference.cache
+E:\C# practice\C# Revision\CollectionExamples\obj\Debug\net7.0\CollectionExamples.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# practice\C# Revision\CollectionExamples\obj\Debug\net7.0\CollectionExamples.AssemblyInfoInputs.cache
+E:\C# practice\C# Revision\CollectionExamples\obj\Debug\net7.0\CollectionExamples.AssemblyInfo.cs
+E:\C# practice\C# Revision\CollectionExamples\obj\Debug\net7.0\CollectionExamples.csproj.CoreCompileInputs.cache
+E:\C# practice\C# Revision\CollectionExamples\obj\Debug\net7.0\CollectionExamples.dll
+E:\C# practice\C# Revision\CollectionExamples\obj\Debug\net7.0\refint\CollectionExamples.dll
+E:\C# practice\C# Revision\CollectionExamples\obj\Debug\net7.0\CollectionExamples.pdb
+E:\C# practice\C# Revision\CollectionExamples\obj\Debug\net7.0\CollectionExamples.genruntimeconfig.cache
+E:\C# practice\C# Revision\CollectionExamples\obj\Debug\net7.0\ref\CollectionExamples.dll

@@ -1,0 +1,15 @@
+E:\C# practice\C# Revition\InterfaceExamples\bin\Debug\net7.0\InterfaceExamples.exe
+E:\C# practice\C# Revition\InterfaceExamples\bin\Debug\net7.0\InterfaceExamples.deps.json
+E:\C# practice\C# Revition\InterfaceExamples\bin\Debug\net7.0\InterfaceExamples.runtimeconfig.json
+E:\C# practice\C# Revition\InterfaceExamples\bin\Debug\net7.0\InterfaceExamples.dll
+E:\C# practice\C# Revition\InterfaceExamples\bin\Debug\net7.0\InterfaceExamples.pdb
+E:\C# practice\C# Revition\InterfaceExamples\obj\Debug\net7.0\InterfaceExamples.csproj.AssemblyReference.cache
+E:\C# practice\C# Revition\InterfaceExamples\obj\Debug\net7.0\InterfaceExamples.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# practice\C# Revition\InterfaceExamples\obj\Debug\net7.0\InterfaceExamples.AssemblyInfoInputs.cache
+E:\C# practice\C# Revition\InterfaceExamples\obj\Debug\net7.0\InterfaceExamples.AssemblyInfo.cs
+E:\C# practice\C# Revition\InterfaceExamples\obj\Debug\net7.0\InterfaceExamples.csproj.CoreCompileInputs.cache
+E:\C# practice\C# Revition\InterfaceExamples\obj\Debug\net7.0\InterfaceExamples.dll
+E:\C# practice\C# Revition\InterfaceExamples\obj\Debug\net7.0\refint\InterfaceExamples.dll
+E:\C# practice\C# Revition\InterfaceExamples\obj\Debug\net7.0\InterfaceExamples.pdb
+E:\C# practice\C# Revition\InterfaceExamples\obj\Debug\net7.0\InterfaceExamples.genruntimeconfig.cache
+E:\C# practice\C# Revition\InterfaceExamples\obj\Debug\net7.0\ref\InterfaceExamples.dll

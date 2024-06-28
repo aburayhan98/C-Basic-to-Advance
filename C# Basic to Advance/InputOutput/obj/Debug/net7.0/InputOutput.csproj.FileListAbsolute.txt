@@ -1,0 +1,15 @@
+E:\C# practice\C# Revition\InputOutput\obj\Debug\net7.0\InputOutput.csproj.AssemblyReference.cache
+E:\C# practice\C# Revition\InputOutput\obj\Debug\net7.0\InputOutput.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# practice\C# Revition\InputOutput\obj\Debug\net7.0\InputOutput.AssemblyInfoInputs.cache
+E:\C# practice\C# Revition\InputOutput\obj\Debug\net7.0\InputOutput.AssemblyInfo.cs
+E:\C# practice\C# Revition\InputOutput\obj\Debug\net7.0\InputOutput.csproj.CoreCompileInputs.cache
+E:\C# practice\C# Revition\InputOutput\bin\Debug\net7.0\InputOutput.exe
+E:\C# practice\C# Revition\InputOutput\bin\Debug\net7.0\InputOutput.deps.json
+E:\C# practice\C# Revition\InputOutput\bin\Debug\net7.0\InputOutput.runtimeconfig.json
+E:\C# practice\C# Revition\InputOutput\bin\Debug\net7.0\InputOutput.dll
+E:\C# practice\C# Revition\InputOutput\bin\Debug\net7.0\InputOutput.pdb
+E:\C# practice\C# Revition\InputOutput\obj\Debug\net7.0\InputOutput.dll
+E:\C# practice\C# Revition\InputOutput\obj\Debug\net7.0\refint\InputOutput.dll
+E:\C# practice\C# Revition\InputOutput\obj\Debug\net7.0\InputOutput.pdb
+E:\C# practice\C# Revition\InputOutput\obj\Debug\net7.0\InputOutput.genruntimeconfig.cache
+E:\C# practice\C# Revition\InputOutput\obj\Debug\net7.0\ref\InputOutput.dll

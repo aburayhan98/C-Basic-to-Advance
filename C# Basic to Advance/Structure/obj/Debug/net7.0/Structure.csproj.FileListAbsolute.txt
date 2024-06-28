@@ -1,0 +1,15 @@
+E:\C# practice\C# Revition\Structure\bin\Debug\net7.0\Structure.exe
+E:\C# practice\C# Revition\Structure\bin\Debug\net7.0\Structure.deps.json
+E:\C# practice\C# Revition\Structure\bin\Debug\net7.0\Structure.runtimeconfig.json
+E:\C# practice\C# Revition\Structure\bin\Debug\net7.0\Structure.dll
+E:\C# practice\C# Revition\Structure\bin\Debug\net7.0\Structure.pdb
+E:\C# practice\C# Revition\Structure\obj\Debug\net7.0\Structure.csproj.AssemblyReference.cache
+E:\C# practice\C# Revition\Structure\obj\Debug\net7.0\Structure.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# practice\C# Revition\Structure\obj\Debug\net7.0\Structure.AssemblyInfoInputs.cache
+E:\C# practice\C# Revition\Structure\obj\Debug\net7.0\Structure.AssemblyInfo.cs
+E:\C# practice\C# Revition\Structure\obj\Debug\net7.0\Structure.csproj.CoreCompileInputs.cache
+E:\C# practice\C# Revition\Structure\obj\Debug\net7.0\Structure.dll
+E:\C# practice\C# Revition\Structure\obj\Debug\net7.0\refint\Structure.dll
+E:\C# practice\C# Revition\Structure\obj\Debug\net7.0\Structure.pdb
+E:\C# practice\C# Revition\Structure\obj\Debug\net7.0\Structure.genruntimeconfig.cache
+E:\C# practice\C# Revition\Structure\obj\Debug\net7.0\ref\Structure.dll

@@ -1,0 +1,15 @@
+E:\C# practice\C# Revition\Operators\bin\Debug\net7.0\Operators.exe
+E:\C# practice\C# Revition\Operators\bin\Debug\net7.0\Operators.deps.json
+E:\C# practice\C# Revition\Operators\bin\Debug\net7.0\Operators.runtimeconfig.json
+E:\C# practice\C# Revition\Operators\bin\Debug\net7.0\Operators.dll
+E:\C# practice\C# Revition\Operators\bin\Debug\net7.0\Operators.pdb
+E:\C# practice\C# Revition\Operators\obj\Debug\net7.0\Operators.csproj.AssemblyReference.cache
+E:\C# practice\C# Revition\Operators\obj\Debug\net7.0\Operators.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# practice\C# Revition\Operators\obj\Debug\net7.0\Operators.AssemblyInfoInputs.cache
+E:\C# practice\C# Revition\Operators\obj\Debug\net7.0\Operators.AssemblyInfo.cs
+E:\C# practice\C# Revition\Operators\obj\Debug\net7.0\Operators.csproj.CoreCompileInputs.cache
+E:\C# practice\C# Revition\Operators\obj\Debug\net7.0\Operators.dll
+E:\C# practice\C# Revition\Operators\obj\Debug\net7.0\refint\Operators.dll
+E:\C# practice\C# Revition\Operators\obj\Debug\net7.0\Operators.pdb
+E:\C# practice\C# Revition\Operators\obj\Debug\net7.0\Operators.genruntimeconfig.cache
+E:\C# practice\C# Revition\Operators\obj\Debug\net7.0\ref\Operators.dll

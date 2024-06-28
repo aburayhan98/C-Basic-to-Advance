@@ -1,0 +1,15 @@
+E:\C# practice\C# Revition\NewKeyWord\bin\Debug\net7.0\NewKeyWord.exe
+E:\C# practice\C# Revition\NewKeyWord\bin\Debug\net7.0\NewKeyWord.deps.json
+E:\C# practice\C# Revition\NewKeyWord\bin\Debug\net7.0\NewKeyWord.runtimeconfig.json
+E:\C# practice\C# Revition\NewKeyWord\bin\Debug\net7.0\NewKeyWord.dll
+E:\C# practice\C# Revition\NewKeyWord\bin\Debug\net7.0\NewKeyWord.pdb
+E:\C# practice\C# Revition\NewKeyWord\obj\Debug\net7.0\NewKeyWord.csproj.AssemblyReference.cache
+E:\C# practice\C# Revition\NewKeyWord\obj\Debug\net7.0\NewKeyWord.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# practice\C# Revition\NewKeyWord\obj\Debug\net7.0\NewKeyWord.AssemblyInfoInputs.cache
+E:\C# practice\C# Revition\NewKeyWord\obj\Debug\net7.0\NewKeyWord.AssemblyInfo.cs
+E:\C# practice\C# Revition\NewKeyWord\obj\Debug\net7.0\NewKeyWord.csproj.CoreCompileInputs.cache
+E:\C# practice\C# Revition\NewKeyWord\obj\Debug\net7.0\NewKeyWord.dll
+E:\C# practice\C# Revition\NewKeyWord\obj\Debug\net7.0\refint\NewKeyWord.dll
+E:\C# practice\C# Revition\NewKeyWord\obj\Debug\net7.0\NewKeyWord.pdb
+E:\C# practice\C# Revition\NewKeyWord\obj\Debug\net7.0\NewKeyWord.genruntimeconfig.cache
+E:\C# practice\C# Revition\NewKeyWord\obj\Debug\net7.0\ref\NewKeyWord.dll

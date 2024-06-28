@@ -1,0 +1,15 @@
+E:\C# practice\C# Revition\StringAndChar\bin\Debug\net7.0\StringAndChar.exe
+E:\C# practice\C# Revition\StringAndChar\bin\Debug\net7.0\StringAndChar.deps.json
+E:\C# practice\C# Revition\StringAndChar\bin\Debug\net7.0\StringAndChar.runtimeconfig.json
+E:\C# practice\C# Revition\StringAndChar\bin\Debug\net7.0\StringAndChar.dll
+E:\C# practice\C# Revition\StringAndChar\bin\Debug\net7.0\StringAndChar.pdb
+E:\C# practice\C# Revition\StringAndChar\obj\Debug\net7.0\StringAndChar.csproj.AssemblyReference.cache
+E:\C# practice\C# Revition\StringAndChar\obj\Debug\net7.0\StringAndChar.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# practice\C# Revition\StringAndChar\obj\Debug\net7.0\StringAndChar.AssemblyInfoInputs.cache
+E:\C# practice\C# Revition\StringAndChar\obj\Debug\net7.0\StringAndChar.AssemblyInfo.cs
+E:\C# practice\C# Revition\StringAndChar\obj\Debug\net7.0\StringAndChar.csproj.CoreCompileInputs.cache
+E:\C# practice\C# Revition\StringAndChar\obj\Debug\net7.0\StringAndChar.dll
+E:\C# practice\C# Revition\StringAndChar\obj\Debug\net7.0\refint\StringAndChar.dll
+E:\C# practice\C# Revition\StringAndChar\obj\Debug\net7.0\StringAndChar.pdb
+E:\C# practice\C# Revition\StringAndChar\obj\Debug\net7.0\StringAndChar.genruntimeconfig.cache
+E:\C# practice\C# Revition\StringAndChar\obj\Debug\net7.0\ref\StringAndChar.dll

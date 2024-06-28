@@ -1,0 +1,15 @@
+E:\C# practice\C# Revision\Tuple\bin\Debug\net7.0\Tuple.exe
+E:\C# practice\C# Revision\Tuple\bin\Debug\net7.0\Tuple.deps.json
+E:\C# practice\C# Revision\Tuple\bin\Debug\net7.0\Tuple.runtimeconfig.json
+E:\C# practice\C# Revision\Tuple\bin\Debug\net7.0\Tuple.dll
+E:\C# practice\C# Revision\Tuple\bin\Debug\net7.0\Tuple.pdb
+E:\C# practice\C# Revision\Tuple\obj\Debug\net7.0\Tuple.csproj.AssemblyReference.cache
+E:\C# practice\C# Revision\Tuple\obj\Debug\net7.0\Tuple.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# practice\C# Revision\Tuple\obj\Debug\net7.0\Tuple.AssemblyInfoInputs.cache
+E:\C# practice\C# Revision\Tuple\obj\Debug\net7.0\Tuple.AssemblyInfo.cs
+E:\C# practice\C# Revision\Tuple\obj\Debug\net7.0\Tuple.csproj.CoreCompileInputs.cache
+E:\C# practice\C# Revision\Tuple\obj\Debug\net7.0\Tuple.dll
+E:\C# practice\C# Revision\Tuple\obj\Debug\net7.0\refint\Tuple.dll
+E:\C# practice\C# Revision\Tuple\obj\Debug\net7.0\Tuple.pdb
+E:\C# practice\C# Revision\Tuple\obj\Debug\net7.0\Tuple.genruntimeconfig.cache
+E:\C# practice\C# Revision\Tuple\obj\Debug\net7.0\ref\Tuple.dll

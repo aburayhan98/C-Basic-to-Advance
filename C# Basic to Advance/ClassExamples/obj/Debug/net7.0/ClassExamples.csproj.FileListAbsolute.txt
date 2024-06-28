@@ -1,0 +1,15 @@
+E:\C# practice\C# Revition\ClassExamples\bin\Debug\net7.0\ClassExamples.exe
+E:\C# practice\C# Revition\ClassExamples\bin\Debug\net7.0\ClassExamples.deps.json
+E:\C# practice\C# Revition\ClassExamples\bin\Debug\net7.0\ClassExamples.runtimeconfig.json
+E:\C# practice\C# Revition\ClassExamples\bin\Debug\net7.0\ClassExamples.dll
+E:\C# practice\C# Revition\ClassExamples\bin\Debug\net7.0\ClassExamples.pdb
+E:\C# practice\C# Revition\ClassExamples\obj\Debug\net7.0\ClassExamples.csproj.AssemblyReference.cache
+E:\C# practice\C# Revition\ClassExamples\obj\Debug\net7.0\ClassExamples.GeneratedMSBuildEditorConfig.editorconfig
+E:\C# practice\C# Revition\ClassExamples\obj\Debug\net7.0\ClassExamples.AssemblyInfoInputs.cache
+E:\C# practice\C# Revition\ClassExamples\obj\Debug\net7.0\ClassExamples.AssemblyInfo.cs
+E:\C# practice\C# Revition\ClassExamples\obj\Debug\net7.0\ClassExamples.csproj.CoreCompileInputs.cache
+E:\C# practice\C# Revition\ClassExamples\obj\Debug\net7.0\ClassExamples.dll
+E:\C# practice\C# Revition\ClassExamples\obj\Debug\net7.0\refint\ClassExamples.dll
+E:\C# practice\C# Revition\ClassExamples\obj\Debug\net7.0\ClassExamples.pdb
+E:\C# practice\C# Revition\ClassExamples\obj\Debug\net7.0\ClassExamples.genruntimeconfig.cache
+E:\C# practice\C# Revition\ClassExamples\obj\Debug\net7.0\ref\ClassExamples.dll
