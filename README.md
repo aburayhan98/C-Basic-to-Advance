@@ -1,4 +1,4 @@
-# C-Basic-to-Advance
+# C-Sharp-Basic-to-Advance
 # Steps to follow
 
 ##Working with basic data types
